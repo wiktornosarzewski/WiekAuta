@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\PierwszaKlasa-master\001_PierwszaKlasa\obj\Debug\001_PierwszaKlasa.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PierwszaKlasa-master\001_PierwszaKlasa\obj\Debug\001_PierwszaKlasa.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PierwszaKlasa-master\001_PierwszaKlasa\bin\Debug\WiekAuta.exe.config
+C:\Users\admin\source\repos\PierwszaKlasa-master\001_PierwszaKlasa\bin\Debug\WiekAuta.exe
+C:\Users\admin\source\repos\PierwszaKlasa-master\001_PierwszaKlasa\bin\Debug\WiekAuta.pdb
+C:\Users\admin\source\repos\PierwszaKlasa-master\001_PierwszaKlasa\obj\Debug\WiekAuta.exe
+C:\Users\admin\source\repos\PierwszaKlasa-master\001_PierwszaKlasa\obj\Debug\WiekAuta.pdb
